@@ -2,7 +2,7 @@
 
 > 🏥 Intelligent Ophthalmic Diagnosis & Visual Acuity Testing System
 
-🔗 **Live App:** [https://bio_eye_care_navigator.streamlit.app/](https://bio_eye_care_navigator.streamlit.app/)
+🔗 **Live App:** [https://bio-eye-care-navigator.streamlit.app/](https://bio-eye-care-navigator.streamlit.app/)
 
 ---
 
